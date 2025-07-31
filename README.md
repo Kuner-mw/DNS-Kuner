@@ -1,2 +1,48 @@
 # DNS-Kuner
-一个适用于移动端的屏蔽广告追踪的 DNS 黑白名单规则集
+
+一个适用于移动端的 DNS 广告与追踪屏蔽规则集，包含自定义黑名单与白名单，适配 AdGuard Home、SmartDNS、Clash、Stash 等工具。
+
+---
+
+## 📦 规则订阅地址
+
+### ✅ 黑名单（Blocklist）
+
+用于拦截广告、追踪、数据上报等非必要域名：
+
+https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/blacklist.txt
+
+### ✅ 白名单（Allowlist）
+
+放行误杀的或必须正常访问的域名：
+
+https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/allowlist.txt
+
+---
+
+## 🧱 文件结构说明
+
+DNS-Kuner/
+├── FilterRules/
+│ ├── blacklist.txt # 广告、追踪域名黑名单
+│ └── allowlist.txt # 放行必要域名白名单
+└── README.md # 项目说明
+
+---
+
+## 🛠️ 更新计划
+
+- 持续补充常见广告/追踪域名
+- 根据社区反馈优化白名单误杀规则
+
+---
+
+## 📄 许可证 License
+
+本项目采用 [MIT License](LICENSE) 开源发布，欢迎自由使用与修改。
+
+---
+
+## 🙋‍♀️ 贡献 / 反馈
+
+欢迎通过 [Issues](https://github.com/Kuner-mw/DNS-Kuner/issues) 提出建议、反馈误杀域名或请求添加新规则。
