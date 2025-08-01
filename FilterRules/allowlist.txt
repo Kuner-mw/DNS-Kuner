@@ -13,7 +13,6 @@
 @@/.*ts\d+\.qq\.com/
 @@/.*tts\.fqnovelvod\..*/
 @@/xui\.ptlogin[0-9]+\.qq\.com/$important
-@@/^upos-sz-[\w]+\.bilivideo\.com$/
 @@/.*weixin.*/
 
 @@||3g.qq.com^$important
@@ -26,6 +25,7 @@
 @@||openmobile.qq.com^$important
 @@||formal-bcs.jkmobile.qq.com^$important
 @@||message.bilibili.com^$important
+@@||mcube.zwdingding.aliyuncs.com^$important
 @@||qqchannel-profile-1251316161.file.myqcloud.com^$important
 @@||quic.xsj.qq.com^$important
 @@||qun.qq.com^$important
@@ -34,3 +34,5 @@
 @@||ti.qq.com^$important
 @@||tpstelemetry.tencent.com^$important
 @@||www.bilibili.com^$important
+@@||upos-sz-mirror08c.bilivideo.com^$important
+@@||upos-sz-mirrorali.bilivideo.com^$important
