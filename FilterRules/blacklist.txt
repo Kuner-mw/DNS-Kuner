@@ -14,7 +14,7 @@
 /.*anythink.*/
 /.*baidu.*/
 /.*byte.*/
-/.*bilibili.*/
+/.*bili.*/
 /.*cjjd.*/
 /.*douyin.*/
 /.*ecombd.*/
