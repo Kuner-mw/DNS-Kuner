@@ -13,6 +13,7 @@
 @@/.*ts\d+\.qq\.com/
 @@/.*tts\.fqnovelvod\..*/
 @@/xui\.ptlogin[0-9]+\.qq\.com/$important
+@@/^upos-sz-[\w]+\.bilivideo\.com$/
 @@/.*weixin.*/
 
 @@||3g.qq.com^$important
@@ -33,4 +34,3 @@
 @@||ti.qq.com^$important
 @@||tpstelemetry.tencent.com^$important
 @@||www.bilibili.com^$important
-@@||upos-sz-mirrorali.bilivideo.com^$important
