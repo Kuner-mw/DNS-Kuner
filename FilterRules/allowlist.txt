@@ -35,4 +35,4 @@
 @@||tpstelemetry.tencent.com^$important
 @@||www.bilibili.com^$important
 @@||upos-sz-mirror08c.bilivideo.com^$important
-@@||upos-sz-mirrorali.bilivideo.com^$important
+@@||upos-sz-estgoss.bilivideo.com^$important
