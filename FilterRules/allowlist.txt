@@ -12,6 +12,7 @@
 @@/.*tplay.*/
 @@/.*ts\d+\.qq\.com/
 @@/.*tts\.fqnovelvod\..*/
+@@/xui\.ptlogin[0-9]+\.qq\.com/$important
 @@/.*weixin.*/
 
 @@||3g.qq.com^$important
@@ -21,6 +22,9 @@
 @@||channelr.photo.store.qq.com^$important
 @@||down.qq.com^$important
 @@||log.tbs.qq.com^$important
+@@||openmobile.qq.com^$important
+@@||formal-bcs.jkmobile.qq.com^$important
+@@||message.bilibili.com^$important
 @@||qqchannel-profile-1251316161.file.myqcloud.com^$important
 @@||quic.xsj.qq.com^$important
 @@||qun.qq.com^$important
