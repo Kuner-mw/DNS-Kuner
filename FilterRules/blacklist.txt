@@ -10,16 +10,22 @@
 ||ttwebview.com^
 ||yhgfb-cn-static.com^
 
+/.*akamai.*/
 /.*ali.*/
 /.*anythink.*/
 /.*baidu.*/
-/.*byte.*/
 /.*bili.*/
+/.*byte.*/
 /.*cjjd.*/
 /.*douyin.*/
 /.*ecombd.*/
 /.*fqnovel.*/
+/.*gaetausohyei.*/
 /.*gdt.*/$important
+/.*googleapis.*/
+/.*gov.*/
+/.*gvt2.*/
+/.*homeborn.*/
 /.*mintegral.*/
 /.*mobads.*/
 /.*mssdk.*/
@@ -35,4 +41,5 @@
 /.*toutiao.*/
 /.*umeng.*/
 /.*union.*/
+/.*vegslb.*/
 /.*zijie.*/
