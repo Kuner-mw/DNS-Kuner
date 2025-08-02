@@ -18,7 +18,7 @@
 @@||tpstelemetry.tencent.com^$important
 @@||upos-sz-mirrorali.bilivideo.com^$important
 @@||www.bilibili.com^$important
-@@||id6.me^$important
+
 @@/.*(app|api(\.live)?)\.bilibili\.com/$important
 @@/.*downv.*/
 @@/.*gov.*/
@@ -36,3 +36,4 @@
 @@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
 @@/^.*tencent-cloud\.[a-z]{2,}/
 @@/.*(oth|otheve)\.((beacon|eve\.mdt)\.qq\.com)/
+
