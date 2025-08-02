@@ -2,6 +2,7 @@
 ||beizi.biz^
 ||dig.bdurl.net^
 ||intercom.io^
+||id6.me^
 ||mmstat.com^
 ||myapp.com^
 ||pstatp.com^
@@ -43,3 +44,4 @@
 /.*union.*/
 /.*vegslb.*/
 /.*zijie.*/
+
