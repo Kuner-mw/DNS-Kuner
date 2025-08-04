@@ -10,6 +10,9 @@
 ||tfogc.com^
 ||ttwebview.com^
 ||yhgfb-cn-static.com^
+#饿了么
+||app-monitor.ele.me^$important
+||a-rsc.elemecdn.com^$important
 
 /.*akamai.*/
 /.*ali.*/
@@ -24,7 +27,6 @@
 /.*gaetausohyei.*/
 /.*gdt.*/$important
 /.*googleapis.*/
-/.*gov.*/
 /.*gvt2.*/
 /.*homeborn.*/
 /.*mintegral.*/
@@ -44,4 +46,10 @@
 /.*union.*/
 /.*vegslb.*/
 /.*zijie.*/
+# 垃圾广告
+/^[a-z0-9]{4}\.(595\.com|90\.cc|yl\.vip|011\.com|yl\.ag|4444\.cc|kaiyun\.com|049\.com|279\.tv)$/
+/^\d[a-z0-9]{3}\.(595\.com|90\.cc|yl\.vip|011\.com|yl\.ag|4444\.cc|kaiyun\.com|049\.com|279\.tv)$/
+/^[a-z]{1}\d{3}\.(595\.com|90\.cc|yl\.vip|011\.com|yl\.ag|4444\.cc|kaiyun\.com|049\.com|279\.tv)$/
+
+
 
