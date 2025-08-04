@@ -18,6 +18,7 @@
 @@||tpstelemetry.tencent.com^$important
 @@||www.bilibili.com^$important
 @@||hc.tdm.qq.com^$important
+@@||queuesdk-sh.gcloud.qq.com^$important
 
 @@/.*(app|api(\.live)?)\.bilibili\.com/$important
 @@/.*downv.*/
@@ -32,10 +33,11 @@
 @@/.*ts\d+\.qq\.com/
 @@/.*tts\.fqnovelvod\..*/
 @@/.*weixin.*/
-@@/.*upos-sz.*/
+@@/.*jcc.*/
 @@/.*xui\.ptlogin[0-9]+\.qq\.com/$important
 @@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
 @@/^.*tencent-cloud\.[a-z]{2,}/
 @@/.*(oth|otheve)\.((beacon|eve\.mdt)\.qq\.com)/
+
 
 
