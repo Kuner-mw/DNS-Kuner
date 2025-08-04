@@ -1,47 +1,54 @@
+#📺 哔哩哔哩 Bilibili
+@@/cn-[a-z]+-[a-z]+-\d{2}-\d{2}\.bilivideo\.com/$important
+@@/d1--cn-gotcha\d+\.bilivideo\.com/$important
+@@/upos-sz-mirror[a-z0-9]+\.bilivideo\.com/$important
+@@||mcdn.bilivideo.cn^$important
+@@||upos-sz-estgoss.bilivideo.com^$important
+@@||message.bilibili.com^$important
+@@||www.bilibili.com^$important
+@@/.*(app|api(\.live)?)\.bilibili\.com/$important
+@@/.*hdslb.*/
+#🐧 QQ/微信腾讯相关（含 TIM、QQ浏览器、小程序等）
 @@||3g.qq.com^$important
 @@||accounts.qq.com^$important
 @@||aeventlog.beacon.qq.com^$important
 @@||cdn.ark.qq.com^$important
 @@||channelr.photo.store.qq.com^$important
 @@||down.qq.com^$important
-@@||formal-bcs.jkmobile.qq.com^$important
 @@||log.tbs.qq.com^$important
-@@||mcube.zwdingding.aliyuncs.com^$important
-@@||message.bilibili.com^$important
 @@||openmobile.qq.com^$important
-@@||qqchannel-profile-1251316161.file.myqcloud.com^$important
-@@||quic.xsj.qq.com^$important
 @@||qun.qq.com^$important
-@@||requality.android.shouji.sogou.com^$important
 @@||rmonitor.qq.com^$important
 @@||ti.qq.com^$important
 @@||tpstelemetry.tencent.com^$important
-@@||www.bilibili.com^$important
-@@||hc.tdm.qq.com^$important
-@@||queuesdk-sh.gcloud.qq.com^$important
 @@||img.gamecenter.qq.com^$important
 @@||appservice.qq.com^$important
 @@||wximg.wxs.qq.com^$important
-
-@@/.*(app|api(\.live)?)\.bilibili\.com/$important
-@@/.*downv.*/
-@@/.*gov.*/
-@@/.*hdslb.*/
-@@/.*passport.*/
 @@/.*qlogo.*/
 @@/.*qpic.*/
-@@/.*time\d+\.cloud\.tencent\.[a-z]+.*/
 @@/.*timg.*/
 @@/.*tplay.*/
 @@/.*ts\d+\.qq\.com/
-@@/.*tts\.fqnovelvod\..*/
 @@/.*weixin.*/
-@@/.*jcc.*/
 @@/.*xui\.ptlogin[0-9]+\.qq\.com/$important
-@@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
 @@/^.*tencent-cloud\.[a-z]{2,}/
 @@/.*(oth|otheve)\.((beacon|eve\.mdt)\.qq\.com)/
-
-
-
-
+@@/qqchannel-profile-\d+\.file\.myqcloud\.com/$important
+# 腾讯游戏
+@@||hc.tdm.qq.com^$important
+@@||queuesdk-sh.gcloud.qq.com^$important
+# 金铲铲
+@@||formal-bcs.jkmobile.qq.com^$important
+@@||quic.xsj.qq.com^$important
+#📚 起点/番茄小说（字节系）
+@@/.*tts\.fqnovelvod\..*/
+@@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
+#🗣️ 搜狗输入法 / 搜狗浏览器
+@@||requality.android.shouji.sogou.com^$important
+#🧭 阿里系
+@@||mcube.zwdingding.aliyuncs.com^$important
+#🧩 混合用途
+@@/.*downv.*/
+@@/.*gov.*/
+@@/.*passport.*/
+@@/.*jcc.*/
