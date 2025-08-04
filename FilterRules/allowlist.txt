@@ -47,10 +47,12 @@
 @@||requality.android.shouji.sogou.com^$important
 #🧭 阿里系
 @@||mcube.zwdingding.aliyuncs.com^$important
+@@/.*alipay.*/
 #🧩 混合用途
 @@/.*downv.*/
 @@/.*gov.*/
 @@/.*passport.*/
 @@/.*jcc.*/
+
 
 
