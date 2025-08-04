@@ -2,7 +2,6 @@
 @@/cn-[a-z]+-[a-z]+-\d{2}-\d{2}\.bilivideo\.com/$important
 @@/d1--cn-gotcha\d+\.bilivideo\.com/$important
 @@/upos-sz-mirror[a-z0-9]+\.bilivideo\.com/$important
-@@||mcdn.bilivideo.cn^$important
 @@||upos-sz-estgoss.bilivideo.com^$important
 @@||message.bilibili.com^$important
 @@||www.bilibili.com^$important
@@ -52,3 +51,4 @@
 @@/.*gov.*/
 @@/.*passport.*/
 @@/.*jcc.*/
+
