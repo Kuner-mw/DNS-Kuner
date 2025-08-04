@@ -19,6 +19,9 @@
 @@||www.bilibili.com^$important
 @@||hc.tdm.qq.com^$important
 @@||queuesdk-sh.gcloud.qq.com^$important
+@@||img.gamecenter.qq.com^$important
+@@||appservice.qq.com^$important
+@@||wximg.wxs.qq.com^$important
 
 @@/.*(app|api(\.live)?)\.bilibili\.com/$important
 @@/.*downv.*/
@@ -38,6 +41,7 @@
 @@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
 @@/^.*tencent-cloud\.[a-z]{2,}/
 @@/.*(oth|otheve)\.((beacon|eve\.mdt)\.qq\.com)/
+
 
 
 
