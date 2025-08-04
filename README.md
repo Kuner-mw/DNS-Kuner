@@ -19,8 +19,7 @@ https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/blacklist.
 https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/allowlist.txt
 
 ---
-## 完全放行
-  蓝绿修改器
+## 完全放行 ---  蓝绿修改器
 ---
 ## 🛠️ 更新计划
 
