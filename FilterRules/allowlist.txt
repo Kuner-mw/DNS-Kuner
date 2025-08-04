@@ -24,6 +24,7 @@
 @@||img.gamecenter.qq.com^$important
 @@||appservice.qq.com^$important
 @@||wximg.wxs.qq.com^$important
+@@/.*downv.*/
 @@/.*qlogo.*/
 @@/.*qpic.*/
 @@/.*timg.*/
@@ -40,6 +41,7 @@
 # 金铲铲
 @@||formal-bcs.jkmobile.qq.com^$important
 @@||quic.xsj.qq.com^$important
+@@/.*jcc.*/
 #📚 起点/番茄小说（字节系）
 @@/.*tts\.fqnovelvod\..*/
 @@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
@@ -49,10 +51,10 @@
 @@||mcube.zwdingding.aliyuncs.com^$important
 @@/.*alipay.*/
 #🧩 混合用途
-@@/.*downv.*/
-@@/.*gov.*/
+@@/^[a-z0-9.-]+\.gov\.(cn|com)$/
 @@/.*passport.*/
-@@/.*jcc.*/
+
+
 
 
 
