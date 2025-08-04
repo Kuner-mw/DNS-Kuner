@@ -4,6 +4,7 @@
 @@/upos-sz-mirror[a-z0-9]+\.bilivideo\.com/$important
 @@||upos-sz-estgoss.bilivideo.com^$important
 @@||message.bilibili.com^$important
+@@||mall.bilibili.com^$important
 @@||www.bilibili.com^$important
 @@/.*(app|api(\.live)?)\.bilibili\.com/$important
 @@/.*hdslb.*/
@@ -51,4 +52,5 @@
 @@/.*gov.*/
 @@/.*passport.*/
 @@/.*jcc.*/
+
 
