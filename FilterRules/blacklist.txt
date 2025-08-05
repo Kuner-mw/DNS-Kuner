@@ -47,9 +47,8 @@
 /.*vegslb.*/
 /.*zijie.*/
 # 垃圾广告
-/^[a-z0-9]{4}\.(595\.com|90\.cc|yl\.vip|011\.com|yl\.ag|4444\.cc|kaiyun\.com|049\.com|279\.tv)$/
-/^\d[a-z0-9]{3}\.(595\.com|90\.cc|yl\.vip|011\.com|yl\.ag|4444\.cc|kaiyun\.com|049\.com|279\.tv)$/
-/^[a-z]{1}\d{3}\.(595\.com|90\.cc|yl\.vip|011\.com|yl\.ag|4444\.cc|kaiyun\.com|049\.com|279\.tv)$/
+/^[a-z0-9]{4}\.(595\.com|90\.cc|yl\.vip|011\.com|yl\.ag|4444\.cc|kaiyun\.com|049\.com|279\.tv|9193\.com|yabo\.com|tpua\.vip|8868\.com)$/
+
 
 
 
