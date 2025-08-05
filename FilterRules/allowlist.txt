@@ -14,7 +14,7 @@
 @@||aeventlog.beacon.qq.com^$important
 @@||cdn.ark.qq.com^$important
 @@||channelr.photo.store.qq.com^$important
-@@||down.qq.com^$important
+@@||down.bytes.tcdnos.com^
 @@||log.tbs.qq.com^$important
 @@||openmobile.qq.com^$important
 @@||qun.qq.com^$important
@@ -24,13 +24,13 @@
 @@||img.gamecenter.qq.com^$important
 @@||appservice.qq.com^$important
 @@||wximg.wxs.qq.com^$important
-@@/.*downv.*/
 @@/.*qlogo.*/
 @@/.*qpic.*/
 @@/.*timg.*/
 @@/.*tplay.*/
 @@/.*ts\d+\.qq\.com/
 @@/.*weixin.*/
+@@/down([a-z0-9]{2})?\.qq\.com/$important
 @@/.*xui\.ptlogin[0-9]+\.qq\.com/$important
 @@/^.*tencent-cloud\.[a-z]{2,}/
 @@/.*(oth|otheve)\.((beacon|eve\.mdt)\.qq\.com)/
@@ -53,6 +53,7 @@
 #🧩 混合用途
 @@/^[a-z0-9.-]+\.gov\.(cn|com)$/
 @@/.*passport.*/
+
 
 
 
