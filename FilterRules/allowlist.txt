@@ -42,14 +42,14 @@
 @@||formal-bcs.jkmobile.qq.com^$important
 @@||quic.xsj.qq.com^$important
 @@/.*jcc.*/
-#百度系
+#小米
 @@||update.miui.com^$important
 @@||zhuti.xiaomi.com^$important
 @@||account.xiaomi.com^$important
 @@||mi-img.com^$important
 @@||micloud.xiaomi.net^$important
-@@||account.aliyun.com^$important
 @@||thm.market.xiaomi.com^$important
+#百度系
 @@||imgsrc.baidu.com^$important
 @@||tb.himg.baidu.com^$important
 @@||wappass.baidu.com^$important
@@ -65,10 +65,12 @@
 @@||requality.android.shouji.sogou.com^$important
 #🧭 阿里系
 @@||mcube.zwdingding.aliyuncs.com^$important
+@@/^account(-s)?\.aliyun\.com$/ $important
 @@/.*alipay.*/
 #🧩 混合用途
 @@/^[a-z0-9.-]+\.gov\.(cn|com)$/
 @@/.*passport.*/
+
 
 
 
