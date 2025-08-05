@@ -42,6 +42,22 @@
 @@||formal-bcs.jkmobile.qq.com^$important
 @@||quic.xsj.qq.com^$important
 @@/.*jcc.*/
+#百度系
+@@||update.miui.com^$important
+@@||zhuti.xiaomi.com^$important
+@@||account.xiaomi.com^$important
+@@||mi-img.com^$important
+@@||micloud.xiaomi.net^$important
+@@||account.aliyun.com^$important
+@@||thm.market.xiaomi.com^$important
+@@||imgsrc.baidu.com^$important
+@@||tb.himg.baidu.com^$important
+@@||wappass.baidu.com^$important
+@@||ppui-static-wap.cdn.bcebos.com^$important
+@@||tieba.baidu.com^$important
+@@||baidupcs.com^$important
+@@/^down(pack|app)\.baidu\.com$/ $important
+@@/^(tiebapic|tiebac)\.baidu\.com$/ $important
 #📚 起点/番茄小说（字节系）
 @@/.*tts\.fqnovelvod\..*/
 @@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
@@ -53,6 +69,7 @@
 #🧩 混合用途
 @@/^[a-z0-9.-]+\.gov\.(cn|com)$/
 @@/.*passport.*/
+
 
 
 
