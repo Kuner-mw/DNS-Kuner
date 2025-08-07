@@ -1,80 +1,8 @@
-#📺 哔哩哔哩 Bilibili
-@@/cn-[a-z]+-[a-z]+-\d{2}-\d{2}\.bilivideo\.com/$important
-@@/d1--cn-gotcha\d+\.bilivideo\.com/$important
-@@/upos-sz-mirror[a-z0-9]+\.bilivideo\.com/$important
-@@||upos-sz-estgoss.bilivideo.com^$important
-@@||message.bilibili.com^$important
-@@||mall.bilibili.com^$important
-@@||www.bilibili.com^$important
-@@/.*(app|api(\.live)?)\.bilibili\.com/$important
-@@/.*hdslb.*/
-#🐧 QQ/微信腾讯相关（含 TIM、QQ浏览器、小程序等）
-@@||3g.qq.com^$important
-@@||accounts.qq.com^$important
-@@||aeventlog.beacon.qq.com^$important
-@@||cdn.ark.qq.com^$important
-@@||channelr.photo.store.qq.com^$important
-@@||down.bytes.tcdnos.com^
-@@||log.tbs.qq.com^$important
-@@||openmobile.qq.com^$important
-@@||qun.qq.com^$important
-@@||rmonitor.qq.com^$important
-@@||ti.qq.com^$important
-@@||tpstelemetry.tencent.com^$important
-@@||img.gamecenter.qq.com^$important
-@@||appservice.qq.com^$important
-@@||wximg.wxs.qq.com^$important
-@@/.*qlogo.*/
-@@/.*qpic.*/
-@@/.*timg.*/
-@@/.*tplay.*/
-@@/.*ts\d+\.qq\.com/
-@@/.*weixin.*/
-@@/down([a-z0-9]{2})?\.qq\.com/$important
-@@/.*xui\.ptlogin[0-9]+\.qq\.com/$important
-@@/^.*tencent-cloud\.[a-z]{2,}/
-@@/.*(oth|otheve)\.((beacon|eve\.mdt)\.qq\.com)/
-@@/qqchannel-profile-\d+\.file\.myqcloud\.com/$important
-# 腾讯游戏
-@@||hc.tdm.qq.com^$important
-@@||queuesdk-sh.gcloud.qq.com^$important
-# 金铲铲
-@@||formal-bcs.jkmobile.qq.com^$important
-@@||quic.xsj.qq.com^$important
-@@/.*jcc.*/
-#小米
-@@||update.miui.com^$important
-@@||zhuti.xiaomi.com^$important
-@@||account.xiaomi.com^$important
-@@||mi-img.com^$important
-@@||micloud.xiaomi.net^$important
-@@||thm.market.xiaomi.com^$important
-#百度系
-@@||imgsrc.baidu.com^$important
-@@||tb.himg.baidu.com^$important
-@@||wappass.baidu.com^$important
-@@||ppui-static-wap.cdn.bcebos.com^$important
-@@||tieba.baidu.com^$important
-@@||baidupcs.com^$important
-@@/^down(pack|app)\.baidu\.com$/ $important
-@@/^(tiebapic|tiebac)\.baidu\.com$/ $important
-#📚 起点/番茄小说（字节系）
-@@/.*tts\.fqnovelvod\..*/
+#字节-番茄小说
+@@||byteimg.com^$important
+@@||bytecdn.cn^$important
+@@||security.zijieapi.com^$important
+#番茄小说
+@@/^fanqienovel\.com$/$important
+@@/.*tts\.fqnovelvod\..*/$important
 @@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
-#🗣️ 搜狗输入法 / 搜狗浏览器
-@@||requality.android.shouji.sogou.com^$important
-#🧭 阿里系
-@@||mcube.zwdingding.aliyuncs.com^$important
-@@/^account(-s)?\.aliyun\.com$/ $important
-@@/.*alipay.*/
-#🧩 混合用途
-@@/^[a-z0-9.-]+\.gov\.(cn|com)$/
-@@/.*passport.*/
-
-
-
-
-
-
-
-
