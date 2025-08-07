@@ -1,5 +1,12 @@
 #番茄小说
 /video\.fqnovelvod\.com$/
+#B站
+/^([a-z0-9-]+\.)?biligame\.[a-z0-9]+$/
+||hw-edge-*.bili*$important
+||upos-tribe-static.bilivideo.com^$important
+||tanx.com^$important
+||miaozhen.com^$important
+||biligame.com^$important
 #酷安
 /.*ad-scope.*/
 /.*umeng.*/
@@ -21,3 +28,4 @@
 #未知
 /.*siomxity.*/
 /.*vegslb.*/
+
