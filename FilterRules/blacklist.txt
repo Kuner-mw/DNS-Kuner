@@ -32,7 +32,7 @@
 /.*cjjd14.*/
 /.*douyin.*/
 /.*zijie.*/
-/.*queniu.*/
+/.*queniu.*/$important
 /.*sealaly.*/
 /^(?!www\.)([a-z0-9-]+\.)+douyin\.com$/
 #拼多多-酷安-番茄小说
@@ -45,6 +45,7 @@
 ||id6.me^
 /.*siomxity.*/
 /.*vegslb.*/
+
 
 
 
