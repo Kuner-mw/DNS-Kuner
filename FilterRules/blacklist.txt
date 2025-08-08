@@ -25,10 +25,13 @@
 /.*akamai.*/
 /.*kuaishou.*/
 #字节-酷安-番茄小说
+||*.*ecombd*.*^
 /.*byte.*/
+/.*cjjd14.*/
 /.*douyin.*/
 /.*zijie.*/
 /.*queniu.*/
+/.*sealaly.*/
 /^(?!www\.)([a-z0-9-]+\.)+douyin\.com$/
 #拼多多-酷安-番茄小说
 ||dspsdk.pinduoduo.com^
@@ -40,4 +43,5 @@
 ||id6.me^
 /.*siomxity.*/
 /.*vegslb.*/
+
 
