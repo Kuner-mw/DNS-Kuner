@@ -1,12 +1,11 @@
 #番茄小说
-||pull*.*.*^
-||vc*.ndcpp.*^
-||*video*.fqnovel*.*^
-||*misc*.fqnovel*.*^
-||*read*.fqnovel*.*^
-||*app*.fqnovel*.*^
+||pull*.*.*
+||vc*.ndcpp.*
+||gaetausohyei.*
+||homeborn.*
+/.*fqnovel.*/
 #B站
-/^([a-z0-9-]+\.)?biligame\.[a-z0-9]+$/
+/^([a-z0-9-]+\.)?biligame\.[a-z0-9]+$/$important
 ||hw-edge*.bili*$important
 ||upos-tribe-static.bilivideo.com^$important
 ||tanx.*^$important
@@ -28,7 +27,7 @@
 /.*akamai.*/
 /.*kuaishou.*/
 #字节-酷安-番茄小说
-||*.*ecombd*.*^
+||*.*ecombd*.*
 /.*byte.*/
 /.*cjjd14.*/
 /.*douyin.*/
@@ -38,7 +37,7 @@
 /^(?!www\.)([a-z0-9-]+\.)+douyin\.com$/
 #拼多多-酷安-番茄小说
 ||dspsdk.pinduoduo.com^
-||ad*.pinduoduo.*^$important
+||ad*.pinduoduo.*$important
 #腾讯-酷安
 ||gdt.qq.com^
 /^([a-z0-9-]+\.)?[a-z]\.qq\.com$/
@@ -46,6 +45,7 @@
 ||id6.me^
 /.*siomxity.*/
 /.*vegslb.*/
+
 
 
 
