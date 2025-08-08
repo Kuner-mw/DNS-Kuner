@@ -3,6 +3,7 @@
 ||vc*.ndcpp.*
 ||gaetausohyei.*
 ||homeborn.*
+||0kkkkkt.*
 /.*fqnovel.*/
 #B站
 /^([a-z0-9-]+\.)?biligame\.[a-z0-9]+$/$important
@@ -45,6 +46,7 @@
 ||id6.me^
 /.*siomxity.*/
 /.*vegslb.*/
+
 
 
 
