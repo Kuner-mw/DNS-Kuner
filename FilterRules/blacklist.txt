@@ -1,8 +1,5 @@
 #番茄小说
 /video\.fqnovelvod\.com$/
-||byteimg.com^$important
-||bytecdn.cn^$important
-||security.zijieapi.com^$important
 #B站
 /^([a-z0-9-]+\.)?biligame\.[a-z0-9]+$/
 ||hw-edge-*.bili*$important
@@ -37,6 +34,7 @@
 #未知
 /.*siomxity.*/
 /.*vegslb.*/
+
 
 
 
