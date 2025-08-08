@@ -4,6 +4,8 @@
 @@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
 #字节-番茄小说
 @@||security.zijieapi.com^$important
+@@||lf-organic-growth.bytecdn.cn^
+
 
 
 
