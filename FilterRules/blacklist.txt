@@ -24,7 +24,7 @@
 /.*toutiao.*/
 #快手-酷安-番茄小说
 /.*kwai.*/
-/.*ks-cdn.*/
+/.*ks-cdn.*/$important
 /.*akamai.*/
 /.*kuaishou.*/
 #字节-酷安-番茄小说
@@ -46,6 +46,7 @@
 ||id6.me^
 /.*siomxity.*/
 /.*vegslb.*/
+
 
 
 
