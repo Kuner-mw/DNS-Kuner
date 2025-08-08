@@ -28,7 +28,7 @@
 /.*byte.*/
 /.*douyin.*/
 /.*zijie.*/
-/.*queniusy.*/
+/.*queniu.*/
 /^(?!www\.)([a-z0-9-]+\.)+douyin\.com$/
 #拼多多-酷安-番茄小说
 ||dspsdk.pinduoduo.com^
@@ -40,3 +40,4 @@
 ||id6.me^
 /.*siomxity.*/
 /.*vegslb.*/
+
