@@ -2,4 +2,9 @@
 @@/^fanqienovel\.com$/$important
 @@/.*tts\.fqnovelvod\..*/$important
 @@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/$important
+#字节-番茄小说
+@@||byteimg.com^$important
+@@||bytecdn.cn^$important
+@@||security.zijieapi.com^$important
+
 
