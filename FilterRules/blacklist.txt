@@ -1,7 +1,9 @@
 #番茄小说
 ||pull*.*.*^
 ||vc*.ndcpp.*^
-||*video*.fqnovelvod.*$/
+||*video*.fqnovel*.*^
+||*misc*.fqnovel*.*^
+||*read*.fqnovel*.*^
 #B站
 /^([a-z0-9-]+\.)?biligame\.[a-z0-9]+$/
 ||hw-edge*.bili*$important
@@ -43,5 +45,6 @@
 ||id6.me^
 /.*siomxity.*/
 /.*vegslb.*/
+
 
 
