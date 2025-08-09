@@ -1,10 +1,9 @@
 #番茄小说
 @@||*tts.fqnovel*.*
-@@/^fanqienovel\.com$/
-@@/api\d+-normal-sinfonline[a-z]\.fqnovel\.com/
 #字节-番茄小说
 @@||security.zijieapi.com^
 @@||lf-organic-growth.bytecdn.cn^
+
 
 
 
