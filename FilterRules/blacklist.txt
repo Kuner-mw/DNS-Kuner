@@ -4,7 +4,6 @@
 ||gaetausohyei.*
 ||homeborn.*
 ||0kkkkkt.*
-/.*fqnovel.*/
 #B站
 /^([a-z0-9-]+\.)?biligame\.[a-z0-9]+$/$important
 ||hw-edge*.bili*$important
@@ -46,6 +45,7 @@
 ||id6.me^
 /.*siomxity.*/
 /.*vegslb.*/
+
 
 
 
