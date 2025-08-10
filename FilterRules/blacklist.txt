@@ -13,7 +13,6 @@
 ||miaozhen.*^$important
 ||allawntech.com^$important
 ||gvt2.com^$important
-||show.bilibili.com^$important
 ||data.bilibili.com^$important
 ||club.bilibili.com^$important
 ||httpdns.bilivideo.com^$important
@@ -46,6 +45,7 @@
 ||id6.me^
 /.*siomxity.*/
 /.*vegslb.*/
+
 
 
 
