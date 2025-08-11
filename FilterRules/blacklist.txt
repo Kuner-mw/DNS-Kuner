@@ -61,6 +61,8 @@
 ||pitk.birdgesdk.com^
 /.*umeng.*/
 /.*shuzilm.*/
+#QQ
+||*weather.cdn*
 
 
 
