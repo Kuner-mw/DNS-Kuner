@@ -1,6 +1,6 @@
 #番茄小说
 @@||v*-fq-tts.fqnovelvod.com^
-@@||api5-normal-sinfonlinea.fqnovel.com^
+@@||ecom5-normal-lf.ecombdapi.com^$important
 @@||sign.douyinstatic.com^
 @@/^[^:\/]*fanqienovel\.com$/
 @@/^fqnovel\.ugurl\.cn$/
@@ -8,6 +8,7 @@
 #字节-番茄小说
 @@||security.zijieapi.com^$important
 @@||lf-organic-growth.bytecdn.cn^$important
+
 
 
 
