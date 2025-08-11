@@ -34,6 +34,8 @@
 ||tosv.byted.org^
 ||id6.me^
 #酷安
+||gdt.qq.*
+||sdk.e.qq.*
 ||aun*.telecome.*
 ||*addr.arpa*
 ||pp.myapp.*
@@ -59,6 +61,7 @@
 ||pitk.birdgesdk.com^
 /.*umeng.*/
 /.*shuzilm.*/
+
 
 
 
