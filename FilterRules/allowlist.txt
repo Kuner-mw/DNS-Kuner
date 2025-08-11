@@ -1,13 +1,14 @@
 #番茄小说
-@@||v*-fq-tts.fqnovelvod.com^$important
-@@||api5-normal-sinfonlinea.fqnovel.com^$important
-@@||sign.douyinstatic.com^$important
+@@||v*-fq-tts.fqnovelvod.com^
+@@||api5-normal-sinfonlinea.fqnovel.com^
+@@||sign.douyinstatic.com^
 @@/^[^:\/]*fanqienovel\.com$/
 @@/^fqnovel\.ugurl\.cn$/
 @@/^ugapk\.com$/
 #字节-番茄小说
 @@||security.zijieapi.com^$important
 @@||lf-organic-growth.bytecdn.cn^$important
+
 
 
 
