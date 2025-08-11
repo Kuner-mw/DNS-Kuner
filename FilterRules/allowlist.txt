@@ -6,6 +6,12 @@
 @@/^ugapk\.com$/
 @@||security.zijieapi.com^$important
 @@||lf-organic-growth.bytecdn.cn^$important
+#微信QQ放行
+@@/.*weixin.*/
+@@||wxqcloud.qq.com.cn^
+@@||res.wx.qq.com^
+
+
 
 
 
