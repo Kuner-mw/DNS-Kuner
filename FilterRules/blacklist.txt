@@ -63,7 +63,8 @@
 /.*shuzilm.*/
 #QQ
 ||*weather.cdn*
-
+||thir*.qlogo.&*
+||quic.xsj.qq.com^
 
 
 
