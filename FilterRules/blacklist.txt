@@ -56,8 +56,10 @@
 ||pitk.birdgesdk.com^
 /.*umeng.*/
 /.*shuzilm.*/
-/^[a-zA-Z]\.qq\..+$/
-/^[0-9]gimg\.qq\..*$/
-/^[a-zA-Z]\.gtimg\..*$/
+/[a-zA-Z]\.qq\..+$/
+/[0-9]gimg\.qq\..*$/
+/[a-zA-Z]\.gtimg\..*$/
+
+
 
 
