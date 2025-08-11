@@ -12,7 +12,8 @@
 @@||res.wx.qq.com^
 #汽水音乐
 @@||qishui.com^
-@@||*luna.douyin.com^
+@@||*luna.douyin*.*
+
 
 
 
