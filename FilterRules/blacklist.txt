@@ -40,6 +40,8 @@
 ||access*tpns.tencent.*
 ||gui*.tpns.tencent.*
 ||aun*.union*
+||ksyun.*
+||kuaishou.*
 ||cdngslb.*
 ||cdnhwc*.*
 ||crash.163.*
@@ -51,14 +53,13 @@
 ||ugdtimg.*
 ||birdgesdk.*
 ||nstool.netease.*
-||gdt.qq.com^
+||beizi.biz^
+||tanx.com^
 ||otheve.beacon.qq.com^
 ||pitk.birdgesdk.com^
 /.*umeng.*/
 /.*shuzilm.*/
-/[a-zA-Z]\.qq\..+$/
-/[0-9]gimg\.qq\..*$/
-/[a-zA-Z]\.gtimg\..*$/
+
 
 
 
