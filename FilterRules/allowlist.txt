@@ -1,7 +1,7 @@
 #番茄小说
 @@||v*-fq-tts.fqnovelvod.com^
 @@||api5-normal-sinfonline*.fqnovel.com^
-@@||api5-sinfnorma*.fqnovel.com^
+@@||api5*normal.fqnovel.com^
 @@/^[^:\/]*fanqienovel\.com$/
 @@/^fqnovel\.ugurl\.cn$/
 @@/^ugapk\.com$/
@@ -14,6 +14,7 @@
 #汽水音乐
 @@||qishui.com^
 @@||*luna.douyin*.*
+
 
 
 
