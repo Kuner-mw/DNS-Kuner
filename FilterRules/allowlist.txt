@@ -14,6 +14,9 @@
 #汽水音乐
 @@||qishui.com^
 @@||*luna.douyin*.*
+#华为
+@@||developer.huawei.com^
+
 
 
 
