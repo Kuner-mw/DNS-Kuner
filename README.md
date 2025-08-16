@@ -10,12 +10,14 @@
 
 用于拦截广告、追踪、数据上报等非必要域名：
 
+国内链接：https://gitee.com/mysterious_fog/DNS-Kuner/raw/main/FilterRules/blacklist.txt
 https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/blacklist.txt
 
 ### ✅ 白名单（Allowlist）
 
 放行误杀的或必须正常访问的域名：
 
+国内链接：https://gitee.com/mysterious_fog/DNS-Kuner/raw/main/FilterRules/allowlist.txt
 https://raw.githubusercontent.com/Kuner-mw/DNS-Kuner/main/FilterRules/allowlist.txt
 
 ---
