@@ -16,6 +16,10 @@
 @@||*luna.douyin*.*
 #华为
 @@||developer.huawei.com^
+#七猫
+@@||api-ks.wtzw.com^
+@@||appimg*dbankcdn.com^
+
 
 
 
