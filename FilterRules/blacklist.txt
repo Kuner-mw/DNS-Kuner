@@ -1,4 +1,3 @@
-帮我对比重复的和有覆盖的
 /.*kwai.*/
 /.*kuaishou.*/
 /.*umeng.*/
@@ -87,7 +86,6 @@
 ||tosv.byted.org^
 ||id6.me^
 #酷安
-||aun*.telecome.*
 ||*addr.arpa*
 ||pp.myapp.*
 ||access*tpns.tencent.*
@@ -112,3 +110,4 @@
 ||*weather.cdn*
 ||thir*.qlogo.&*
 ||quic.xsj.qq.com^
+
