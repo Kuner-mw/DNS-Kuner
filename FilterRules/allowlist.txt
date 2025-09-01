@@ -1,6 +1,6 @@
 #番茄小说
 @@||v*-fq-tts.fqnovelvod.com^
-@@||api5-normal-sinfonline*.fqnovel.com^
+@@||api*normal-sinfonline*fqnovel.com^
 @@||p*-reading-sign.fqnovelpic.com^
 @@/^[^:\/]*fanqienovel\.com$/
 @@/^fqnovel\.ugurl\.cn$/
@@ -19,3 +19,4 @@
 #七猫
 @@||api-ks.wtzw.com^
 @@||appimg*dbankcdn.com^
+
