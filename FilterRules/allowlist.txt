@@ -5,8 +5,8 @@
 @@/^[^:\/]*fanqienovel\.com$/
 @@/^fqnovel\.ugurl\.cn$/
 @@/^ugapk\.com$/
-@@||security.zijieapi.com^$important
-@@||lf-organic-growth.bytecdn.cn^$important
+@@||security.zijieapi.com^
+@@||lf-organic-growth.bytecdn.cn^
 #微信QQ放行
 @@/.*weixin.*/
 @@||wxqcloud.qq.com.cn^
@@ -28,6 +28,7 @@
 @@||baidupcs.com^
 @@/^down(pack|app)\.baidu\.com$/
 @@/^(tiebapic|tiebac)\.baidu\.com$/
+
 
 
 
