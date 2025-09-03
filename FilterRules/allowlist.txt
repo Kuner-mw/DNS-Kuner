@@ -19,5 +19,15 @@
 #七猫
 @@||api-ks.wtzw.com^
 @@||appimg*dbankcdn.com^
+#百度
+@@||imgsrc.baidu.com^
+@@||tb.himg.baidu.com^
+@@||wappass.baidu.com^
+@@||ppui-static-wap.cdn.bcebos.com^
+@@||tieba.baidu.com^
+@@||baidupcs.com^
+@@/^down(pack|app)\.baidu\.com$/
+@@/^(tiebapic|tiebac)\.baidu\.com$/
+
 
 
