@@ -1,12 +1,8 @@
 #番茄小说
+@@||p3-reading-sign.fqnovelpic.com^
+@@||api5-normal-sinfonline*.fqnovel.com^
+@@||api5-normal-lf.fqnovel.com^
 @@||v*-fq-tts.fqnovelvod.com^
-@@||api5-normal-sinfonline*fqnovel.com^
-@@||p*-reading-sign.fqnovelpic.com^
-@@/^[^:\/]*fanqienovel\.com$/
-@@/^fqnovel\.ugurl\.cn$/
-@@/^ugapk\.com$/
-@@||security.zijieapi.com^
-@@||lf-organic-growth.bytecdn.cn^
 #微信QQ放行
 @@/.*weixin.*/
 @@||wxqcloud.qq.com.cn^
@@ -28,6 +24,7 @@
 @@||baidupcs.com^
 @@/^down(pack|app)\.baidu\.com$/
 @@/^(tiebapic|tiebac)\.baidu\.com$/
+
 
 
 
