@@ -1,3 +1,6 @@
+#政务
+@@||gov.cn^
+@@||smartplg.com^
 #识典古籍
 @@||www.shidianguji.com^
 #番茄小说
@@ -30,6 +33,7 @@
 @@||baidupcs.com^
 @@/^down(pack|app)\.baidu\.com$/
 @@/^(tiebapic|tiebac)\.baidu\.com$/
+
 
 
 
