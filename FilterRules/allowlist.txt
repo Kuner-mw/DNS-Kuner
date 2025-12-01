@@ -19,6 +19,10 @@
 #汽水音乐
 @@||qishui.com^
 @@||*luna.douyin*.*
+#小米
+@@||zhuti.xiaomi.com^
+@@||ts.market.mi-img.com^
+@@||f17.market.xiaomi.com^
 #华为
 @@||developer.huawei.com^
 #七猫
@@ -33,6 +37,7 @@
 @@||baidupcs.com^
 @@/^down(pack|app)\.baidu\.com$/
 @@/^(tiebapic|tiebac)\.baidu\.com$/
+
 
 
 
