@@ -3,6 +3,8 @@
 @@||smartplg.com^
 #识典古籍
 @@||www.shidianguji.com^
+#京东
+@@||jd.com^
 #番茄小说
 @@||p3-reading-sign.fqnovelpic.com^
 @@||api5-normal-sinfonlinec.fqnovel.com^
@@ -37,6 +39,7 @@
 @@||baidupcs.com^
 @@/^down(pack|app)\.baidu\.com$/
 @@/^(tiebapic|tiebac)\.baidu\.com$/
+
 
 
 
