@@ -37,6 +37,7 @@
 @@||ppui-static-wap.cdn.bcebos.com^
 @@||tieba.baidu.com^
 @@||baidupcs.com^
+@@||pan.baidu.com^
 @@/^down(pack|app)\.baidu\.com$/
 @@/^(tiebapic|tiebac)\.baidu\.com$/
 
