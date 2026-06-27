@@ -1,103 +1,135 @@
-#字节跳动
-/.*bytedns.*/
-/.*byte008.*/
-/.*toutiao.*/
-/.*bytedance.*/
-/.*zijieapi.*/
-/.*snssdk.*/
-/.*mssdk.*/
-#快手
-/.*ks-cdn.*/
-/.*kwai.*/
-/.*kuaishou.*/
-#友盟
-/.*umeng.*/
-#腾讯
-/.*gdtimg.*/
-#其他广告商
-/.*beizi.*/
-/.*anythinktech.*/
-/.*ecombdapi.*/
-/.*shuzilm.*/
-#腾讯
+
+! =========================
+! 腾讯
+! =========================
+*gdt*qq*
+*sdk*e*qq*
+*ams*myqcloud*
+*bug*qq*
 ||tpns.tencent.com^
 ||sdk.e.qq.com^
 ||gdt.qq.com^
 ||tdid.m.qq.com^
-#网易
-||dun.163*
-||uu.163*
-#阿里巴巴
-||*tanx.com^
-#Google
-||app-measurement.com^
-#字节跳动 - 抖音/番茄小说/今日头条等产品线
+||bugly.qq.com^
+||gdtimg.com^
+||ugdtimg.com^
+||qzs.gdtimg.com^
+||quic.xsj.qq.com^
+
+! =========================
+! 友盟
+! =========================
+*umeng*
+
+! =========================
+! 字节跳动
+! =========================
+*sdk*toutiao*
+*pglstatp*toutiao*
+*vcs*zijieapi*com*
+*ctobsnssdk*
+*log*snssdk*
+*apmplus*volces*
+
+*bytedns*
+*byte008*
+*toutiao*
+*bytedance*
+*zijieapi*
+*snssdk*
+*mssdk*
+
 ||sf1-ttcdn-tos.pstatp.com^
 ||*novel.byteimg.com^
 ||p*.douyinpic.com^
 ||webcast5-open-lf.douyin.com^
 ||vc-brain*ndcpp.com^
 ||vc-mirror*ndcpp.com^
-#字节跳动 - 番茄小说专属域名 (fqnovel)
+
 ||*normal.fqnovel.com^
 ||*applog.fqnovel.com^
 ||*video.fqnovelvod.com^
 ||*lf.fqnovel.com^
-||*normal-lf.*.com^
 ||*misc.fqnovel.com^
 ||*reading*fqnovel*.com^
-#疑似拼多多
-||*aio.ecombdimg.com^
-||*item.ecombdimg.com^
-#第三方服务-移动
+
+! =========================
+! 快手
+! =========================
+*gifshow.com*
+*open*kuaishou*
+*ks-cdn*
+*kwai*
+*kuaishou*
+
+||*pull.yximgs.com^
+||pull.etoote.com^
+
+! =========================
+! 爱奇艺
+! =========================
+t7z.cupid.iqiyi*
+
+! =========================
+! 哔哩哔哩
+! =========================
+||dataflow.biliapi.com^
+
+! =========================
+! 广告/统计 SDK
+! =========================
+*telecome.cn*
+*anythinktech*
+*metricslinks.com*
+*statisticslinks*
+*beizi*
+*ecombdapi*
+*shuzilm*
+
 ||app.adjust.io^
 ||whoami.akamai.net^
-#其他/待确认
-||auni.unioncom.cc^
-||resource.ad-scope.com.cn^
-||yumao.puata.info^
-||sdktmp.hubcloud.com.cn^
-||viayoo.com^
-||lanpye.cn^
-||smtcdns.com^
-||vegslb.com^
-||id6.me^
-#七猫
-||bugly.qq.com^
-||tdid.m.qq.com^
-||gifshow.com^
+||app-measurement.com^
+
+! =========================
+! 网易
+! =========================
+||dun.163*
+||uu.163*
+
+! =========================
+! 阿里巴巴
+! =========================
+||*tanx.com^
+||amdcopen.m.taobao.com^
+||httpdns.alicdn.com^
+
+! =========================
+! 拼多多疑似
+! =========================
+||*aio.ecombdimg.com^
+||*item.ecombdimg.com^
+
+! =========================
+! 七猫 / 网文 / 广告联盟
+! =========================
 ||janapi.jd.com^
 ||xlog.jd.com^
+
 ||*mob.com^
-||sdk.e.qq.com^
-||mobads*baidu.com^
+||mobads*baidu.com
 ||*shifen.com^
 ||api.qttunion.com^
 ||aiclk.com^
 ||ssp.maplehaze.cn^
 ||ssp.vivo.com.cn^
-||ugdtimg.com^
-||qzs.gdtimg.com^
-||gdt.qq.com^
+
 ||*ad*qumao*
 ||*ad*qm*
 ||*ad*vivo*
 ||*ad*wtzw*
-||*pull.yximgs.com^
-||ks*pull.yximgs.com^
-||pull.etoote.com^
+
 ||qm-data.wtzw.com^
 ||*vod*wtzw.com^
-||dbankcloud.cn^
-||*drcn*dbankcdn*
-||hicloud.com^
-||wscdns.com^
-||*gslb.qianxun.com^
-||api*dutils.com^
-||ubixioe.com^
-||fengkongcloud.com^
-||*yundunwaf*.com^
-||risk-fp-openapi.vivo.com.cn^
 ||api-gw.wtzw.com^
 ||api-cmnt.wtzw.com^
 ||api-sc.wtzw.com^
@@ -106,11 +138,36 @@
 ||drs.wtzw.com^
 ||t-cfg.wtzw.com^
 ||mkt.wtzw.com^
-||amdcopen.m.taobao.com^
-||httpdns.alicdn.com^
-||s.peplle.cn^
+
+! =========================
+! 华为
+! =========================
+||dbankcloud.cn^
+||*drcn*dbankcdn*
+||hicloud.com^
+
+! =========================
+! 安全/风控/CDN
+! =========================
+||wscdns.com^
+||*gslb.qianxun.com^
+||api*dutils.com^
+||ubixioe.com^
+||fengkongcloud.com^
+||*yundunwaf*.com^
+||risk-fp-openapi.vivo.com.cn^
+
+! =========================
+! 未知/待确认
+! =========================
+*yumao.puata*
+||yumao.puata.info^
+||auni.unioncom.cc^
+||resource.ad-scope.com.cn^
+||sdktmp.hubcloud.com.cn^
+||viayoo.com^
+||lanpye.cn^
 ||smtcdns.com^
-#QQ
-||*weather.cdn*
-||thir*.qlogo.&*
-||quic.xsj.qq.com^
+||vegslb.com^
+||id6.me^
+||s.peplle.cn^
