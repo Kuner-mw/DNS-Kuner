@@ -13,12 +13,15 @@
 @@||v*-fq-tts.fqnovelvod.com^
 #酷安
 @@||coolapk.com^
-@@||pp.myapp.com^
-@@||auni.telecome.cn^
+@@auni.telecome.cn^
 #微信QQ放行
 @@/.*weixin.*/
 @@||wxqcloud.qq.com.cn^
 @@||res.wx.qq.com^
+#腾讯推送
+@@||guid.tpns.tencent.com^
+#腾讯分发图片？
+@@||pp.myapp.com^
 #汽水音乐
 @@||qishui.com^
 @@||*luna.douyin*.*
@@ -41,6 +44,9 @@
 @@||pan.baidu.com^
 @@/^down(pack|app)\.baidu\.com$/
 @@/^(tiebapic|tiebac)\.baidu\.com$/
+#网易易盾（安全验证）
+@@||dun.163.com^
+@@||cstaticdun.126.net^
 
 
 
