@@ -8,6 +8,7 @@
 
 #京东
 @@||jd.com^
+@@||m.jdjygold.com^
 @@||aks.jdpay.com^
 @@||*m*.360buyimg.com^
 
