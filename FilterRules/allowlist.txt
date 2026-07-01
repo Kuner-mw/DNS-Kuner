@@ -7,7 +7,7 @@
 
 #京东
 @@||jd.com^
-@@||img*.360buyimg.com^
+@@||*m*.360buyimg.com^
 
 #番茄小说
 @@||p3-reading-sign.fqnovelpic.com^
