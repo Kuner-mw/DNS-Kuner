@@ -1,12 +1,14 @@
 #政务
 @@||gov.cn^
 @@||smartplg.com^
+@@||ykf.ichongqing.info^
 
 #识典古籍
 @@||www.shidianguji.com^
 
 #京东
 @@||jd.com^
+@@||aks.jdpay.com^
 @@||*m*.360buyimg.com^
 
 #番茄小说
@@ -23,6 +25,7 @@
 @@/.*weixin.*/
 @@||wxqcloud.qq.com.cn^
 @@||res.wx.qq.com^
+@@||sdk*faceid.qq.com^
 
 #腾讯推送
 @@||guid.tpns.tencent.com^
@@ -47,6 +50,7 @@
 @@||appimg*dbankcdn.com^
 
 #百度
+@@||m.baidu.com^
 @@||imgsrc.baidu.com^
 @@||tb.himg.baidu.com^
 @@||wappass.baidu.com^
