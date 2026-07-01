@@ -66,6 +66,11 @@
 ||pull.etoote.com^
 
 ! =========================
+! 京东
+! =========================
+storage.360buyimg.com
+
+! =========================
 ! 爱奇艺
 ! =========================
 t7z.cupid.iqiyi*
@@ -161,7 +166,6 @@ t7z.cupid.iqiyi*
 ! 未知/待确认
 ! =========================
 *yumao.puata*
-||yumao.puata.info^
 ||auni.unioncom.cc^
 ||resource.ad-scope.com.cn^
 ||sdktmp.hubcloud.com.cn^
